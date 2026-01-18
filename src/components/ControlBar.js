@@ -1,6 +1,6 @@
 import React from "react";
-import Add from './add'
-import People from './people'
+import Add from './Add'
+import People from './People'
 
 const ControlBar = ({ tiles, update, controlbar, updateControlBar, showPopUp, togglePopUp, type, updateType }) => {
 

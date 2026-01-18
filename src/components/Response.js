@@ -1,6 +1,6 @@
 import React from 'react';
-import ControlBar from './controlBar'
-import Timer from './timer'
+import ControlBar from './ControlBar'
+import Timer from './Timer'
 
 const Response = ({ tiles, update, controlbar, updateControlBar, showPopUp, togglePopUp, type, updateType }) => {
 

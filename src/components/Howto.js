@@ -1,6 +1,6 @@
 import React from 'react';
-import TextDirections from './textDirections'
-import AppDirections from './appDirections'
+import TextDirections from './TextDirection'
+import AppDirections from "./AppDirections";
 
 const HowTo = () => {
   return (
